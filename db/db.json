@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "newTask": "To make todo list with vue js",
+      "date": "2024-03-10",
+      "status": "Not Completed",
+      "id": "d138"
+    },
+    {
+      "newTask": "Submission date of todo application",
+      "date": "2024-03-13",
+      "status": "Not Completed",
+      "id": "94dc"
+    },
+    {
+      "newTask": "To complete two DSA topic",
+      "date": "2024-03-16",
+      "status": "Not completed",
+      "id": "c3f1"
+    },
+    {
+      "status": "completed",
+      "id": "4038"
+    },
+    {
+      "id": "0a08",
+      "newTask": "Your name is Krishna",
+      "date": "2024-03-13",
+      "status": "NOT Completed"
+    },
+    {
+      "status": "Completed",
+      "id": "34c8"
+    }
+  ]
+}
